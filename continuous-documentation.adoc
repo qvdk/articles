@@ -35,3 +35,5 @@ Les exigences sont susceptibles d’évoluer tout au long du projet, vous oblige
 Il n’est pas nécessaire de tout documenter. La documentation n’a pas vocation à remplacer un cahier des charges ou des spécifications techniques. Bien souvent il sera préférable d’y trouver le manuel d’utilisation (accompagné d’exemples), un guide d’intégration, la description des API, etc. De plus, mieux vaut ne pas trop en faire. La rédaction doit rester rapide et concise.
 
 Dans un prochain article, je vous présenterai un exemple de mise en oeuvre d’une « Continuous Documentation ».
+
+Publication initiale: http://www.salto-consulting.com/continuous-documentation/
